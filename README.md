@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deepali-Kashyap
 - 👀 I’m interested in DevOps, Cloud Computing, and Automation
 - 🌱 I’m currently learning DevOps and improving my coding skills
-- 💞️ I’m looking to collaborate on open-source projects and automation tools
 - 😄 Pronouns: Badal_Kashyap
 - ⚡ Fun fact: I learn by mimicking, but always add my own twist!
 
